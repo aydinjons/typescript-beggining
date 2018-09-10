@@ -12,5 +12,8 @@
 // console.log(a,b,c);
 // console.log('d');
 var langs;
+var numbers;
 langs = ["php", "java", "c++", "python"];
+numbers = [1, 2, 3, 4, 5];
 console.log(langs);
+console.log(numbers);

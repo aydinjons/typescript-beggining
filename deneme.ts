@@ -15,7 +15,11 @@
 // console.log('d');
 
 let langs : string[];
+let numbers : number[];
 
 langs = ["php","java","c++","python"];
+numbers = [1,2,3,4,5];
+
 
 console.log(langs);
+console.log(numbers);
