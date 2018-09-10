@@ -1,0 +1,13 @@
+var a;
+var b;
+var c;
+var d;
+a = "hello world";
+b = 22;
+c = true;
+console.log(a);
+console.log('naber');
+console.log(b);
+console.log(a, b);
+console.log(a, b, c);
+console.log('d');
